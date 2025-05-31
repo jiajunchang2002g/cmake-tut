@@ -1,0 +1,6 @@
+/home/chang/cmake-tut-src/cmake-4.0.2-tutorial-source/Step2_build/CMakeFiles/Tutorial.dir
+/home/chang/cmake-tut-src/cmake-4.0.2-tutorial-source/Step2_build/CMakeFiles/edit_cache.dir
+/home/chang/cmake-tut-src/cmake-4.0.2-tutorial-source/Step2_build/CMakeFiles/rebuild_cache.dir
+/home/chang/cmake-tut-src/cmake-4.0.2-tutorial-source/Step2_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/chang/cmake-tut-src/cmake-4.0.2-tutorial-source/Step2_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/chang/cmake-tut-src/cmake-4.0.2-tutorial-source/Step2_build/MathFunctions/CMakeFiles/rebuild_cache.dir
